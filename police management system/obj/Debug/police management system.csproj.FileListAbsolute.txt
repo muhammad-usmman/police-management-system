@@ -1,0 +1,48 @@
+C:\Users\mmune\Desktop\visual project\pms\police management system\bin\Debug\police management system.exe.config
+C:\Users\mmune\Desktop\visual project\pms\police management system\bin\Debug\police management system.exe
+C:\Users\mmune\Desktop\visual project\pms\police management system\bin\Debug\police management system.pdb
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police management system.csprojAssemblyReference.cache
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form1.resources
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Properties.Resources.resources
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police management system.csproj.GenerateResource.cache
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police management system.csproj.CoreCompileInputs.cache
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police management system.exe
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police management system.pdb
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form2.resources
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form3.resources
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form4.resources
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form5.resources
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form6.resources
+C:\Users\mmune\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form7.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\bin\Debug\police management system.exe.config
+C:\Users\admin\Desktop\visual project\pms\police management system\bin\Debug\police management system.exe
+C:\Users\admin\Desktop\visual project\pms\police management system\bin\Debug\police management system.pdb
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police management system.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police management system.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form1.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form2.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form3.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form4.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form5.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form6.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form7.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police_management_system.Properties.Resources.resources
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police management system.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police management system.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police management system.exe
+C:\Users\admin\Desktop\visual project\pms\police management system\obj\Debug\police management system.pdb
+D:\desktop\visual project\pms\police management system\bin\Debug\police management system.exe.config
+D:\desktop\visual project\pms\police management system\obj\Debug\police management system.exe
+D:\desktop\visual project\pms\police management system\obj\Debug\police management system.pdb
+D:\desktop\visual project\pms\police management system\bin\Debug\police management system.exe
+D:\desktop\visual project\pms\police management system\bin\Debug\police management system.pdb
+D:\desktop\visual project\pms\police management system\obj\Debug\police management system.csprojResolveAssemblyReference.cache
+D:\desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form1.resources
+D:\desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form2.resources
+D:\desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form3.resources
+D:\desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form4.resources
+D:\desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form5.resources
+D:\desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form6.resources
+D:\desktop\visual project\pms\police management system\obj\Debug\police_management_system.Form7.resources
+D:\desktop\visual project\pms\police management system\obj\Debug\police_management_system.Properties.Resources.resources
+D:\desktop\visual project\pms\police management system\obj\Debug\police management system.csproj.GenerateResource.Cache
